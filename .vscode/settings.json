@@ -1,0 +1,24 @@
+{
+    "files.associations": {
+        "stdlib.h": "c",
+        "clucu_background.h": "c",
+        "stat.h": "c",
+        "clucu_error.h": "c",
+        "gsl_interp2d.h": "c",
+        "gsl_deriv.h": "c",
+        "time.h": "c",
+        "random": "c",
+        "cmath": "c",
+        "complex": "c",
+        "clucu_halomodel.h": "c",
+        "gsl_roots.h": "c",
+        "clucu_core.h": "c",
+        "clucu_survey.h": "c",
+        "gsl_integration.h": "c",
+        "math.h": "c",
+        "clucu_collapse.h": "c"
+    },
+    "cmake.configureOnOpen": true,
+    "cmake.sourceDirectory": "${workspaceFolder}/CCL",
+    "C_Cpp.errorSquiggles": "Enabled"
+}
